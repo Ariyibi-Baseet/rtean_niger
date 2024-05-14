@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/rteancom/repositories/rtean-niger
+    - /bin/cp -R index.html, css, images $DEPLOYPATH

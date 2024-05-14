@@ -1,0 +1,53 @@
+header {
+  width: 100%;
+  height: 300px;
+  background-color: #4c4c4c;
+  font-family: "Roboto", sans-serif;
+}
+
+nav h2 {
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-links {
+  list-style-type: none;
+  font-family: "Poppins", sans-serif;
+}
+
+.current_link > a {
+  color: #04ce47;
+}
+
+.contact-block {
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+
+footer {
+  background-color: #000;
+}
+
+.footer-block {
+  padding: 30px 0 70px 0;
+}
+
+.about-rtean-footer {
+  color: #acacac;
+}
+
+.footer-logo {
+  width: 150px;
+}
+
+.footer-links li a {
+  text-decoration: none;
+  color: #acacac;
+}
+
+.footer-down-data {
+  overflow: hidden;
+}
